@@ -31,4 +31,5 @@
 [Landing page 2](https://cilvako.github.io/.)<br/>
 [Parallax effect landing page](https://cilvako.github.io/simple_parallax_webiste/)<br/>
 [Photo gallery with modal - pure JS](https://cilvako.github.io/image_gallery_with_modal_pure_Js/)<br/>
-[CSS Grid Photo Gallery](https://cilvako.github.io/CSS_grid_photo_gallery/)
+[CSS Grid Photo Gallery](https://cilvako.github.io/CSS_grid_photo_gallery/)<br/>
+[Working with the Ghibli API example](https://cilvako.github.io/studio_ghibli_API/)
