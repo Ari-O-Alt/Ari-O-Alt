@@ -30,4 +30,4 @@
 [Landing page 1](https://cilvako.github.io/example1/)<br/>
 [Landing page 2](https://cilvako.github.io/.)<br/>
 [Parallax effect landing page](https://cilvako.github.io/simple_parallax_webiste/)<br/>
-[Photo gallery with model = pure JS](https://cilvako.github.io/image_gallery_with_modal_pure_Js/#)
+[Photo gallery with modal - pure JS](https://cilvako.github.io/image_gallery_with_modal_pure_Js/#)
