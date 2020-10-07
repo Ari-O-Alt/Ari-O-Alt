@@ -28,5 +28,5 @@
 
 ### Github Pages
 [Landing page 1](https://cilvako.github.io/example1/)<br/>
-[Landing page 2](https://cilvako.github.io/.)
+[Landing page 2](https://cilvako.github.io/.)<br/>
 [Parallax effect landing page](https://cilvako.github.io/simple_parallax_webiste/)
