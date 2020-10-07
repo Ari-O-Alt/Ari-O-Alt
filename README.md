@@ -27,4 +27,5 @@
 <br/>
 
 ### Github Pages
-[Simple landing page](https://cilvako.github.io/.)
+[Landing page 1](https://cilvako.github.io/example1/)
+[Landing page 2](https://cilvako.github.io/.)
