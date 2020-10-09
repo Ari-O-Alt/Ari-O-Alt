@@ -34,3 +34,7 @@
 [CSS Grid Photo Gallery](https://cilvako.github.io/CSS_grid_photo_gallery/)<br/>
 [Working with the Ghibli API](https://cilvako.github.io/studio_ghibli_API/)<br/>
 [CSS Sun Illustration - HTML + CSS](https://cilvako.github.io/CSSsun/)<br/>
+
+
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cilvako&show_icons=true)
