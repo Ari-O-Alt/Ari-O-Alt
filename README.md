@@ -33,3 +33,4 @@
 [Photo gallery with modal - pure JS](https://cilvako.github.io/image_gallery_with_modal_pure_Js/)<br/>
 [CSS Grid Photo Gallery](https://cilvako.github.io/CSS_grid_photo_gallery/)<br/>
 [Working with the Ghibli API](https://cilvako.github.io/studio_ghibli_API/)
+[CSS Sun Illustration - HTML + CSS](https://cilvako.github.io/CSSsun/)
