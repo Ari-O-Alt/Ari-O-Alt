@@ -1,7 +1,7 @@
 ### Developer by day, developer by night
 
 
-- 🔭 I’m currently working on my Github README page.
+- 🔭 I’m currently working on my Github README page and modeling 3D doughnut.
 - 🌱 I’m currently learning Python/ Django and 3D Modeling.
 - 👯 I’m looking to collaborate on technical writing and 3D Modeling.
 - 🤔 I’m looking for help with React.
