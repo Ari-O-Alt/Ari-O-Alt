@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my Github README page and modeling 3D doughnuts.
 - 🌱 I’m currently learning Python/ Django and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
-- 🤔 I’m looking for help with React.
+- 🤔 I’m looking for help with React/ Blender.
 - 📫 How to reach me: on [DEV](https://dev.to/cilvako) or [Twitter](https://twitter.com/Cilvako).
 - 😄 Pronouns: she/ her.
 
