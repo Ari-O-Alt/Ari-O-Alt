@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python/ Django and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
 - 🤔 I’m looking for help with the Intersection Observer API.
-- 📫 How to reach me: on [DEV](https://dev.to/cilvako) or on [Twitter](https://twitter.com/Cilvako).
+- 📫 How to reach me: on [DEV](https://dev.to/cilvako) or [Twitter](https://twitter.com/Cilvako).
 - 😄 Pronouns: she/ her.
 
 ### Skills/ Technologies
