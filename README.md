@@ -27,7 +27,7 @@
 <br/>
 
 ### Github Pages
-[VR company simple landing page](https://cilvako.github.io/VR-Company-landing-page/)<br/>
+[VR company simple landing page](https://ari-o-alt.github.io/VR-Company-landing-page/)<br/>
 ["Coming soon" landing page](https://cilvako.github.io/.)<br/>
 [Parallax effect landing page](https://cilvako.github.io/simple_parallax_webiste/)<br/>
 [Photo gallery with modal - pure JS](https://cilvako.github.io/image_gallery_with_modal_pure_Js/)<br/>
