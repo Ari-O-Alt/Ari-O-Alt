@@ -36,4 +36,4 @@
 [CSS Sun Illustration - HTML + CSS](https://cilvako.github.io/CSSsun/)<br/>
 <br/>
 <br/>
-![Cilvako's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cilvako&show_icons=true)<br/>
+![Ari-O-Alt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cilvako&show_icons=true)<br/>
