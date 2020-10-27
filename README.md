@@ -5,7 +5,6 @@
 - 🌱 These days I am learning Python/ Django and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
 - 📫 You can find me: on [DEV](https://dev.to/ari_o) or [Twitter](https://twitter.com/ArikaAlt).
-- 😄 Pronouns: she/ her.
 
 ### Skills/ Technologies
 
