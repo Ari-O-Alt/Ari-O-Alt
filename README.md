@@ -4,7 +4,6 @@
 - 🔭 I’m currently modeling 3D doughnuts in Blender.
 - 🌱 These days I am learning Python/ Django and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
-- 🤔 I’m looking for help with React.
 - 📫 You can find me: on [DEV](https://dev.to/ari_o) or [Twitter](https://twitter.com/ArikaAlt).
 - 😄 Pronouns: she/ her.
 
