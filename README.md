@@ -1,7 +1,7 @@
 ### Developer by day, developer by night
 
 
-- 🔭 I’m currently modeling 3D doughnuts in Blender 😄.
+- 🔭 I’m currently modeling 3D doughnuts in Blender.
 - 🌱 I’m currently learning Python/ Django and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
 - 🤔 I’m looking for help with React.
