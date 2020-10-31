@@ -25,6 +25,7 @@
 <br/>
 
 ### Github Pages
+[React Weather App](https://ari-o-alt.github.io/react_weather_app/)
 [React website - how to use React Router](https://ari-o-alt.github.io/react_router_multipage_website/#/)<br/>
 [VR company landing page - HTML/ CSS](https://ari-o-alt.github.io/VR-Company-landing-page/)<br/>
 ["Coming soon" landing page - HTML/ CSS](https://ari-o-alt.github.io/.)<br/>
