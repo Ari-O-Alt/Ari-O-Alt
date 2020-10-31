@@ -29,7 +29,7 @@
 [VR company landing page - HTML/ CSS](https://ari-o-alt.github.io/VR-Company-landing-page/)<br/>
 ["Coming soon" landing page - HTML/ CSS](https://ari-o-alt.github.io/.)<br/>
 [Parallax effect landing page - HTML/ CSS](https://ari-o-alt.github.io/simple_parallax_webiste/)<br/>
-[Photo gallery with modal - pure JS](https://ari-o-alt.github.io/image_gallery_with_modal_pure_Js/)<br/>
+[Photo gallery with modal - HTML/ CSS/ JS](https://ari-o-alt.github.io/image_gallery_with_modal_pure_Js/)<br/>
 [CSS Grid Photo Gallery - HTML/ CSS Grid](https://ari-o-alt.github.io/CSS_grid_photo_gallery/)<br/>
 [Working with the Ghibli API - HTML/ CSS/ JS](https://ari-o-alt.github.io/studio_ghibli_API/)<br/>
 [CSS Sun Illustration - HTML/ CSS](https://ari-o-alt.github.io/CSSsun/)<br/>
