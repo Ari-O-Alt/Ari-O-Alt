@@ -26,7 +26,7 @@
 
 ### Github Pages
 [React website - how to use React Router](https://ari-o-alt.github.io/react_router_multipage_website/#/)<br/>
-[Tic Tac Toe Game = HTML/ CSS/ Javascript](https://ari-o-alt.github.io/tic_tac_toe_game/)<br/>
+[Tic Tac Toe Game - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/tic_tac_toe_game/)<br/>
 [VR company landing page - HTML/ CSS](https://ari-o-alt.github.io/VR-Company-landing-page/)<br/>
 ["Coming soon" landing page - HTML/ CSS](https://ari-o-alt.github.io/.)<br/>
 [Parallax effect landing page - HTML/ CSS](https://ari-o-alt.github.io/simple_parallax_webiste/)<br/>
