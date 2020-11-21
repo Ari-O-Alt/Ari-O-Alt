@@ -38,3 +38,6 @@
 <br/>
 <br/>
 ![Ari-O-Alt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt&show_icons=true)<br/>
+
+### Netflify Pages
+[React website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
