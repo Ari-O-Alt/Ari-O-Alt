@@ -22,6 +22,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
+
 ### Github Pages
 [React website - how to use React Router](https://ari-o-alt.github.io/react_router_multipage_website/#/)<br/>
 [Tic Tac Toe Game - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/tic_tac_toe_game/)<br/>
