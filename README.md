@@ -20,10 +20,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br/>
 <br/>
-
 ### Github Pages
 [React website - how to use React Router](https://ari-o-alt.github.io/react_router_multipage_website/#/)<br/>
 [Tic Tac Toe Game - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/tic_tac_toe_game/)<br/>
@@ -35,8 +33,7 @@
 [CSS Grid Photo Gallery - HTML/ CSS Grid](https://ari-o-alt.github.io/CSS_grid_photo_gallery/)<br/>
 [Working with the Ghibli API - HTML/ CSS/ JS](https://ari-o-alt.github.io/studio_ghibli_API/)<br/>
 [CSS Sun Illustration - HTML/ CSS](https://ari-o-alt.github.io/CSSsun/)<br/>
-<br/>
-<br/>
+
 ### Netflify Pages
 [React website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 <br/>
