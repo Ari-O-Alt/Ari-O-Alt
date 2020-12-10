@@ -4,7 +4,7 @@
 - 🔭 I’m currently modeling 3D doughnuts in Blender.
 - 🌱 These days I am learning Node and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
-- 📫 You can find me on [DEV](https://dev.to/ari_o) or on [Twitter](https://twitter.com/ArikaAlt).
+- 📫 You can find me on [DEV](https://dev.to/ari_o) or on [Twitter](https://twitter.com/ArikaAlt). I also write small pieces od code on [Codesanbox](https://codesandbox.io/u/Ari-O-Alt).
 
 ### Skills/ Technologies
 
