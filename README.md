@@ -37,6 +37,7 @@
 
 ### Netflify Pages
 [React responsive website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
+[Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
 <br/>
 <br/>
 ![Ari-O-Alt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt&show_icons=true)<br/>
