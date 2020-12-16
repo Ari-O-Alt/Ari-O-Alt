@@ -33,7 +33,7 @@
 [Photo gallery with modal - HTML/ CSS/ JS](https://ari-o-alt.github.io/image_gallery_with_modal_pure_Js/)<br/>
 [CSS Grid Photo Gallery - HTML/ CSS Grid](https://ari-o-alt.github.io/CSS_grid_photo_gallery/)<br/>
 [Working with the Ghibli API - HTML/ CSS/ JS](https://ari-o-alt.github.io/studio_ghibli_API/)<br/>
-[CSS Sun Illustration - HTML/ CSS](https://ari-o-alt.github.io/CSSsun/)<br/>
+[CSS Sun Illustration - HTML/ CSS](https://ari-o-alt.github.io/CSS_Sun/)<br/>
 
 ### Netflify Pages
 [React responsive website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
