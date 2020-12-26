@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning about AI and Machine Learning/ Deep Learning.
 - 🌱 These days I am learning Node and 3D Modeling with Blender.
 - 👯 I’m looking to collaborate on technical writing.
-- 📫 You can find me on [DEV](https://dev.to/ari_o) or on [Twitter](https://twitter.com/ArikaAlt). I also write small pieces of code on [Codesanbox](https://codesandbox.io/u/Ari-O-Alt).
+- 📫 You can find me on [DEV](https://dev.to/ari_o) or on [Twitter](https://twitter.com/ArikaAlt). I also write small pieces of code on [Codesanbox](https://codesandbox.io/u/Ari-O-Alt) and [Codepen](https://codepen.io/Arika_O).
 
 ### Skills/ Technologies
 
