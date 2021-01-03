@@ -1,7 +1,7 @@
 ### Developer by day, developer by night
 
 
-- 🔭 I’m currently learning about AI and ML/ Deep Learning.
+- 🔭 I’m currently learning about Computer Networks.
 - 🌱 In my free time I like to write technical articles.
 - 👯 I’m looking to collaborate on small Javascript projects.
 - 📫 You can find me on [DEV](https://dev.to/ari_o) or on [Twitter](https://twitter.com/ArikaAlt). I also write small pieces of code on [Codesanbox](https://codesandbox.io/u/Ari-O-Alt) and [Codepen](https://codepen.io/Arika_O).
