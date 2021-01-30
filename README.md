@@ -1,6 +1,5 @@
 ### Developer by day, developer by night
 
-
 - 🔭 I’m currently learning about Computer Networks.
 - 🌱 In my free time I like to write technical articles.
 - 👯 I’m looking to collaborate on small Javascript projects.
