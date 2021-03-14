@@ -1,6 +1,6 @@
 ### Developer by day, developer by night
 
-- 🔭 I’m currently learning about automated testing with Selenium and C#.
+- 🔭 I’m currently learning about automated testing with Selenium.
 - 🌱 In my free time I like to write technical articles.
 - 👯 I’m looking to collaborate on small Javascript projects.
 - 📫 You can find me on [DEV](https://dev.to/arikaturika) or on [Twitter](https://twitter.com/ArikaAlt). I also write small pieces of code on [Codesanbox](https://codesandbox.io/u/Ari-O-Alt) and on [Codepen](https://codepen.io/Arika_O).
