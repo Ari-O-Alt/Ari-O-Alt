@@ -39,9 +39,9 @@
 [(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
 [Static Landing Page - A choreographer's presentation website](https://condescending-saha-4e35ec.netlify.app/)<br/> 
 <br/>
+#### Frontendmentor challenges
+<br/>
 <br/>
 ![Ari-O-Alt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt&show_icons=true)<br/>
-
-#### Frontendmentor challenges
 
 
