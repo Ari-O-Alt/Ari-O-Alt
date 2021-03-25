@@ -40,8 +40,7 @@
 [Static Landing Page - A choreographer's presentation website](https://condescending-saha-4e35ec.netlify.app/)<br/> 
 <br/>
 ### Frontendmentor challenges
-<br/>
-<br/>
+
 [![Arika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt)](https://github.com/anuraghazra/github-readme-stats)
 
 
