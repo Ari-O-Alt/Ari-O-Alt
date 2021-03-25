@@ -42,6 +42,6 @@
 ### Frontendmentor challenges
 <br/>
 <br/>
-[![Ari-O-Alt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt&show_icons=true)<br/>
+[![Arika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt)](https://github.com/anuraghazra/github-readme-stats)
 
 
