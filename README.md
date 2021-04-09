@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning about automated testing.
 - 🌱 In my free time I like to write technical articles.
 - 👯 I’m looking to collaborate on small Javascript projects.
-- 📫 You can find me on [DEV](https://dev.to/arikaturika).
+- 📫 You can find me writing on [DEV](https://dev.to/arikaturika) and [Twitter](https://twitter.com/ArikaAlt).
 
 ### Skills/ Technologies
 
@@ -22,25 +22,11 @@
 <br/>
 <br/>
 
-
-### Github Pages
-[React website - how to use React Router example](https://ari-o-alt.github.io/react_router_multipage_website/#/)<br/>
-[Tic Tac Toe Game - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/tic_tac_toe_game/)<br/>
-[Postcard from the mountains - auto photo slider - HTML/ CSS/ JS](https://ari-o-alt.github.io/postcard_from_the_mountains_photo_slider/)<br/>
-[VR company landing page - HTML/ CSS](https://ari-o-alt.github.io/VR-Company-landing-page/)<br/>
-["Coming soon" landing page - HTML/ CSS](https://ari-o-alt.github.io/.)<br/>
-[Parallax effect landing page - HTML/ CSS](https://ari-o-alt.github.io/simple_parallax_webiste/)<br/>
-[Photo gallery with modal - HTML/ CSS/ JS](https://ari-o-alt.github.io/image_gallery_with_modal_pure_Js/)<br/>
-[CSS Grid Photo Gallery - HTML/ CSS Grid](https://ari-o-alt.github.io/CSS_grid_photo_gallery/)<br/>
-[Working with the Ghibli API - HTML/ CSS/ JS](https://ari-o-alt.github.io/studio_ghibli_API/)<br/>
-[CSS Sun Illustration - HTML/ CSS](https://ari-o-alt.github.io/CSS_Sun/)<br/>
-
 ### Netflify Pages
 [React responsive website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 [(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
 [Static Landing Page - A choreographer's presentation website](https://condescending-saha-4e35ec.netlify.app/)<br/> 
 
-### Frontendmentor challenges
 
 [![Arika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt)](https://github.com/anuraghazra/github-readme-stats)
 
