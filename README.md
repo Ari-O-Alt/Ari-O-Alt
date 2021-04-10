@@ -31,7 +31,7 @@
 ### Netflify Pages
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 [(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
-[Static Landing Page - A choreographer's presentation website](https://condescending-saha-4e35ec.netlify.app/)<br/> 
+[Static Landing Page - HMTL/ CSS/ Javascript](https://condescending-saha-4e35ec.netlify.app/)<br/> 
 [React website - React Router practice](https://pensive-allen-e2d7eb.netlify.app/)
 
 
