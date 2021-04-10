@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-### Github Pages<br/>
+### Github Pages
 #### Technologies: HTML, CSS and pure JS
 [Automatic Photo Slider - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/javascript_photo_slider/)<br/>
 [Tic Tac Toe Game - HTML/ CSS](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
@@ -31,7 +31,7 @@
 [Photo gallery wih modal - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/Photo_gallery_with_modal/)<br/>
 [Photo gallery - CSS Grid practice](https://ari-o-alt.github.io/Photo_gallery_CSS_Grid/)
 
-### Netflify Pages<br/>
+### Netflify Pages
 #### Technologies: React, Typescript, Javascript
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 [React website - React Router practice](https://pensive-allen-e2d7eb.netlify.app/)<br/>
