@@ -23,10 +23,11 @@
 <br/>
 
 ### Github Pages
-[CSS/ JS Photo Slider](https://ari-o-alt.github.io/javascript_photo_slider/)<br/>
-[Tic Tac Toe Game](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
-[API usage example - Ghibli API](https://ari-o-alt.github.io/API_usage_example_ghibli/)<br/>
-[CSS Calculator](https://ari-o-alt.github.io/HTML-CSS_calculator/)<br/>
+[Automatic Photo Slider - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/javascript_photo_slider/)<br/>
+[Tic Tac Toe Game - HTML/ CSS](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
+[API usage example - Ghibli API - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/API_usage_example_ghibli/)<br/>
+[CSS Calculator - HTML/ CSS](https://ari-o-alt.github.io/HTML-CSS_calculator/)<br/>
+[Photo gallery wih modal - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/Photo_gallery_with_modal/)
 
 ### Netflify Pages
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
