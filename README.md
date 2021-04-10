@@ -32,6 +32,7 @@
 [React responsive website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 [(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
 [Static Landing Page - A choreographer's presentation website](https://condescending-saha-4e35ec.netlify.app/)<br/> 
+[React website - React Router practice](https://pensive-allen-e2d7eb.netlify.app/)
 
 
 [![Arika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt)](https://github.com/anuraghazra/github-readme-stats)
