@@ -22,6 +22,10 @@
 <br/>
 <br/>
 
+### Github Pages
+[CSS/ JS Photo Slider](https://ari-o-alt.github.io/javascript_photo_slider/)
+[Tic Tac Toe Game](https://ari-o-alt.github.io/tic_tac_toe/)
+
 ### Netflify Pages
 [React responsive website example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
 [(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
