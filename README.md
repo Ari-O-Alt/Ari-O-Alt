@@ -27,13 +27,14 @@
 [Tic Tac Toe Game - HTML/ CSS](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
 [API usage example - Ghibli API - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/API_usage_example_ghibli/)<br/>
 [CSS Calculator - HTML/ CSS](https://ari-o-alt.github.io/HTML-CSS_calculator/)<br/>
-[Photo gallery wih modal - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/Photo_gallery_with_modal/)
+[Photo gallery wih modal - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/Photo_gallery_with_modal/)<br/>
+[Photo gallery - CSS Grid practice](https://ari-o-alt.github.io/Photo_gallery_CSS_Grid/)
 
 ### Netflify Pages
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
-[(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
+[React website - React Router practice](https://pensive-allen-e2d7eb.netlify.app/)<br/>
 [Static Landing Page - HMTL/ CSS/ Javascript](https://condescending-saha-4e35ec.netlify.app/)<br/> 
-[React website - React Router practice](https://pensive-allen-e2d7eb.netlify.app/)
+[(WOP) Javascript exercises and solutions](https://peaceful-johnson-bd9090.netlify.app/)<br/>
 
 
 [![Arika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-O-Alt)](https://github.com/anuraghazra/github-readme-stats)
