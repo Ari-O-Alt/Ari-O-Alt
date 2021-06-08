@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning about automated testing.
 - 🌱 In my free time I like to write technical articles and paint.
 - 👯 I’m looking to collaborate on small Javascript projects.
-- 📫 You can find me writing on [DEV](https://dev.to/arikaturika) and [Twitter](https://twitter.com/ArikaAlt).
+- 📫 You can find me writing on [DEV](https://dev.to/arikaturika).
 
 ### Skills/ Technologies
 
