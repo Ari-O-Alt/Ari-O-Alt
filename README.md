@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning about Node/ Express Js and testing with Jest and React Testing Library.
 - 🌱 In my free time I like to write technical articles and paint.
 - 👯 I’m looking to collaborate on small Javascript projects.
-- 📫 You can find me writing on [DEV](https://dev.to/arikaturika).
+- 📫 You can find me writing on [DEV](https://dev.to/arikaturika) or doing code challenges [here](https://www.codewars.com/users/Chibi_Yuna).
 
 
 ### Skills/ Technologies
