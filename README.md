@@ -3,7 +3,8 @@
 - 🔭 I’m currently learning about Node and Express/ Next.js.
 - 🌱 In my free time I like to write technical articles and paint.
 - 👯 I’m looking to collaborate on small Javascript projects.
-- 📫 You can find me writing on [DEV](https://dev.to/arikaturika) or doing code challenges [here](https://www.codewars.com/users/Chibi_Yuna)
+- 📫 You can find me writing on [DEV](https://dev.to/arikaturika) or doing code challenges [here](https://www.codewars.com/users/Chibi_Yuna).
+- 🧪 Currently trying Three.js out and publishing my code [here](https://codepen.io/Arika_O/pens/public).
 
 
 ### Skills/ Technologies
