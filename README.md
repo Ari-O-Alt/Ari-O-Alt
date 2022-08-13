@@ -34,6 +34,8 @@
 [Photo gallery - CSS Grid practice](https://ari-o-alt.github.io/Photo_gallery_CSS_Grid/)
 
 ### Netflify Pages
+#### Technologies: Three.js, Javascript
+[Three.js Landing page sample](https://genuine-narwhal-3b7d90.netlify.app/)
 #### Technologies: React, Typescript, Javascript
 [React + Material UI form validation](https://hungry-gates-702e93.netlify.app/)<br/>
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
