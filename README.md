@@ -25,7 +25,7 @@
 <br/>
 
 ### Github Pages
-#### Technologies: HTML, CSS and pure JS
+#### Technologies: HTML, CSS and vanilla JS
 [Automatic Photo Slider - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/javascript_photo_slider/)<br/>
 [Tic Tac Toe Game - HTML/ CSS](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
 [API usage example - Ghibli API - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/API_usage_example_ghibli/)<br/>
