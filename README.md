@@ -35,7 +35,9 @@
 
 ### Netflify Pages
 #### Technologies: Three.js, Javascript
-[Three.js Landing page sample](https://genuine-narwhal-3b7d90.netlify.app/)
+[Three.js Disco Ball](https://genuine-narwhal-3b7d90.netlify.app/)
+[Three.js Spinning Mountains](https://fluffy-sundae-20043a.netlify.app/)
+
 #### Technologies: React, Typescript, Javascript
 [React + Material UI form validation](https://hungry-gates-702e93.netlify.app/)<br/>
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
