@@ -35,7 +35,7 @@
 
 ### Netflify Pages
 #### Technologies: Three.js, Javascript
-[Three.js Disco Ball](https://genuine-narwhal-3b7d90.netlify.app/)
+[Three.js Disco Ball](https://genuine-narwhal-3b7d90.netlify.app/)<br/>
 [Three.js Spinning Mountains](https://fluffy-sundae-20043a.netlify.app/)
 
 #### Technologies: React, Typescript, Javascript
