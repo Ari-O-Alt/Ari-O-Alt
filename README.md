@@ -24,20 +24,12 @@
 <br/>
 <br/>
 
-### Github Pages
-#### Technologies: HTML, CSS and vanilla JS
-[Automatic Photo Slider - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/javascript_photo_slider/)<br/>
-[Tic Tac Toe Game - HTML/ CSS](https://ari-o-alt.github.io/tic_tac_toe/)<br/>
-[API usage example - Ghibli API - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/API_usage_example_ghibli/)<br/>
-[CSS Calculator - HTML/ CSS](https://ari-o-alt.github.io/HTML-CSS_calculator/)<br/>
-[Photo gallery wih modal - HTML/ CSS/ Javascript](https://ari-o-alt.github.io/Photo_gallery_with_modal/)<br/>
-[Photo gallery - CSS Grid practice](https://ari-o-alt.github.io/Photo_gallery_CSS_Grid/)
-
 ### Netflify Pages
 #### Technologies: Three.js, Javascript
 [Three.js Disco Ball](https://genuine-narwhal-3b7d90.netlify.app/)<br/>
 [Three.js Spinning Mountains](https://fluffy-sundae-20043a.netlify.app/)
 
+### Github Pages
 #### Technologies: React, Typescript, Javascript
 [React + Material UI form validation](https://hungry-gates-702e93.netlify.app/)<br/>
 [React website - responsive example](https://pedantic-heyrovsky-5be9ce.netlify.app/)<br/>
