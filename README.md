@@ -1,6 +1,6 @@
 ### Developer by day, developer by night
 
-- 🔭 I’m currently learning Math for Machine Learning.
+- 🔭 I’m currently learning Node and GraphQL.
 - 🌱 In my free time I like to write technical articles and paint.
 - 👯 I’m looking to collaborate on small Javascript projects.
 - 📫 You can find me writing on [DEV](https://dev.to/arikaturika) or doing code challenges [here](https://www.codewars.com/users/Chibi_Yuna).
